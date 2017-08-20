@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WEBGLskycam.data.unityweb",
+"asmCodeUrl": "WEBGLskycam.asm.code.unityweb",
+"asmMemoryUrl": "WEBGLskycam.asm.memory.unityweb",
+"asmFrameworkUrl": "WEBGLskycam.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
