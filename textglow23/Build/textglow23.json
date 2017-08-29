@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "textglow23.data.unityweb",
+"asmCodeUrl": "textglow23.asm.code.unityweb",
+"asmMemoryUrl": "textglow23.asm.memory.unityweb",
+"asmFrameworkUrl": "textglow23.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
