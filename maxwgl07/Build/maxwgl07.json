@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "maxwgl07.data.unityweb",
+"asmCodeUrl": "maxwgl07.asm.code.unityweb",
+"asmMemoryUrl": "maxwgl07.asm.memory.unityweb",
+"asmFrameworkUrl": "maxwgl07.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
