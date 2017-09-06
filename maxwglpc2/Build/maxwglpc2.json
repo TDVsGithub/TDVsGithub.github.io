@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "maxwglpc2.data.unityweb",
+"asmCodeUrl": "maxwglpc2.asm.code.unityweb",
+"asmMemoryUrl": "maxwglpc2.asm.memory.unityweb",
+"asmFrameworkUrl": "maxwglpc2.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
