@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "biomax09.data.unityweb",
+"asmCodeUrl": "biomax09.asm.code.unityweb",
+"asmMemoryUrl": "biomax09.asm.memory.unityweb",
+"asmFrameworkUrl": "biomax09.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
